@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jestinvj4@gmail.com**
 
-- 📄 Know about my experiences [jestinjoseph.netlify.app]([jestinjoseph.netlify.app])
+- 📄 Know about my experiences [jestin.in]([jestin.in])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
