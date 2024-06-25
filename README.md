@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **wordpress,react, node js,html&css**
 
-- 👨‍💻 All of my projects are available at [jestinjoseph.netlify.app]([https://jestinjoseph.netlify.app])
+- 👨‍💻 All of my projects are available at [jestin.in]([https://jestin.in])
 
 - 📫 How to reach me **jestinvj4@gmail.com**
 
-- 📄 Know about my experiences [jestin.in]([jestin.in])
+- 📄 Know about my experiences [jestin.in]([https://jestin.in])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
